@@ -7,5 +7,5 @@ My name is Yonas and I am a Computer Science student at UMBC interested in Rever
 - Writeups on targets I am researching
 
 ### Platforms I use
-[Twitter] (https://twitter.com/0xAwayy)
-Discord: Awayy#0724
+- [Twitter](https://twitter.com/0xAwayy)
+- Discord: Awayy#0724
