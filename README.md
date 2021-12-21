@@ -3,4 +3,3 @@ No matter how devastated you may be by your own weakness or uselessness, set you
 
 ### Platforms I use
 - [Twitter](https://twitter.com/0xAwayy)
-- Discord: Awayy#1337
