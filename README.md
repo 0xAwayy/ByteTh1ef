@@ -1,5 +1,5 @@
-
-
+- Lost in club cyberia ^_^ <3
+- Interested in iOS Kernel Security Research
 - I’m currently working on **my vtab script :3**
 
 
